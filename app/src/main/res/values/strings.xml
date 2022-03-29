@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">calculadoraBasica</string>
+    <string name="TextoPrincipal">Digite o valor a ser convertido: </string>
+</resources>
